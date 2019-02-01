@@ -62,7 +62,7 @@ const User = [
 
   name:'target',
 
-  message:'[>] Insert Username Target (Without @[at]):',
+  message:'[>] Insert Username Target :',
 
   validate: function(value){
 
